@@ -1,1 +1,8 @@
-/* write your override styles here */
+
+#wall div {
+  display:none;
+}
+
+#wall div[id="tag-2"] {
+  display:none;
+}
