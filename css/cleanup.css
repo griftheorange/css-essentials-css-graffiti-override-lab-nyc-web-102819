@@ -3,6 +3,6 @@
   display:none;
 }
 
-#wall #tag-2[value="none"]{
+#wall #tag-2[value=""]{
   display:none;
 }
